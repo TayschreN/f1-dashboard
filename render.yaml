@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: f1-analytics-dashboard
+    env: python
+    plan: free
+    buildCommand: "pip install -r requirements.txt"
+    startCommand: "cd dashboard && gunicorn app:server"

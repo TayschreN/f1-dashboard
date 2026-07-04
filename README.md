@@ -9,6 +9,7 @@ nos gráficos, mas no pipeline que limpa, valida e corrige um dataset público
 real — incluindo alguns bugs sutis nos dados que só aparecem quando você
 cruza as tabelas certas (detalhes na seção [Decisões de engenharia](#decisões-de-engenharia-de-dados)).
 
+https://f1-dashboard-zcvw.onrender.com - Dashboard ao Vivo
 
 ![Dashboard](imagens/tela1.png)
 ![Dashboard](imagens/tela2.png)
